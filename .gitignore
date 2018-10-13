@@ -2,7 +2,7 @@
 *.swp
 /.pytest_cache
 /tmp
-/tests/data/test_makepot/addon_test_makepot/i18n/*
+/tests/data/test_translator/addon_test_translator/i18n/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
